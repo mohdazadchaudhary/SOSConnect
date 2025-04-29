@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SOSConnect</string>
+    <string name="settings_fragment_preview">Settings Fragment Preview</string>
+    <string name="contact_image">Contact Image</string>
+</resources>
