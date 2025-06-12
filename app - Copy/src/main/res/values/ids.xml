@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtEmail" type="id" />
+    <item name="txtMessage" type="id" />
+    <item name="llRow" type="id" />
+</resources>
