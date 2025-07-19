@@ -136,9 +136,5 @@ Pull requests welcome — let’s save lives together.
 
 MIT License – Use it. Improve it. Share it. But always stay true to the mission.
 
-
 ---
-
-> "Zarurat ke waqt sirf ek button chahiye hota hai – SOS Connect wahi button hai."
-
 
