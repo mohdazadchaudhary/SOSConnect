@@ -57,14 +57,6 @@ Direct API integration with local emergency networks for instant dispatch.
 
 Platform: Android (Java + XML)
 
-Services Used:
-
-SMS Manager
-
-WorkManager
-
-Local Storage (Encrypted)
-
 Google Maps API (Future Integration)
 
 Design: Material Design 3 Guidelines
@@ -129,12 +121,6 @@ We believe safety is collaborative.
 Got an idea? New feature? Help us expand the directory of services in your city or state.
 Pull requests welcome — let’s save lives together.
 
-
----
-
-📄 License
-
-MIT License – Use it. Improve it. Share it. But always stay true to the mission.
 
 ---
 
